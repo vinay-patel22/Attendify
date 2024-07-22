@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment files
+.env
+.env.*
+
+# Logs
+logs
+*.log
+
+# Build output
+dist/
+build/
+*.tgz
+
+# Dependency directories
+jspm_packages/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Misc
+*.pem
+*.key
+*.crt
+*.p12
+*.sublime-project
+*.sublime-workspace
+*.npmrc
+*.yarnrc

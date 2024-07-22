@@ -13,6 +13,4 @@ logs/
 # Operating System files
 .DS_Store
 
-# Ignore API specific folders
-# api/node_modules/
-# api/.env
+.expo/
